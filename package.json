@@ -57,6 +57,6 @@
     "redux-devtools-instrument": "^1.9.3",
     "remotedev-utils": "^0.1.1",
     "rn-host-detect": "^1.1.5",
-    "socketcluster-client": "^14.2.1"
+    "socketcluster-client": "https://github.com/lyxia/socketcluster-client.git"
   }
 }
